@@ -1,0 +1,134 @@
+[
+    {'baseTitle': 'SayÄ±lar ve Ä°ÅYlemler', 'urls': [
+            {'title': 'Tam SayÄ±lar ve Ä°Å
+Ylemler', 'link': 'https: //www.derspresso.com.tr/matematik/sayi-islem'}, {'title
+': 'Rasyonel SayÄ±lar', 'link': 'https: //www.derspresso.com.tr/matematik/rasyone
+l-sayi'
+            },
+            {'title': 'BÃ¶lenler ve Katlar', 'link': 'https: //www.derspresso.com.t
+r/matematik/bolen-kat'
+            },
+            {'title': 'ModÃ¼ler Aritmetik', 'link': 'https: //www.de
+rspresso.com.tr/matematik/moduler-aritmetik'
+            }
+        ]
+    },
+    {'baseTitle': 'Problemler', 'ur
+ls': [
+            {'title': 'Denklemler ve EÅYitsizlikler', 'link': 'https: //www.derspresso.
+com.tr/matematik/denklem-esitsizlik'
+            },
+            {'title': 'Oran ve OrantÄ±', 'link': 'htt
+ps: //www.derspresso.com.tr/matematik/oran-oranti'}, {'title': 'Problemler', 'lin
+k': 'https: //www.derspresso.com.tr/matematik/problem'}]}, {'baseTitle': 'ÃoslÃ¼
+ve KÃ¶klÃ¼ Ä°fadeler', 'urls': [
+                    {'title': 'Cebirsel Ä°fadeler', 'link': 'https:/
+/www.derspresso.com.tr/matematik/cebirsel-ifade'
+                    },
+                    {'title': 'ÃoslÃ¼ Ä°fadeler',
+ 'link': 'https: //www.derspresso.com.tr/matematik/uslu-ifade'}, {'title': 'KÃ¶kl
+Ã¼ Ä°fadeler', 'link': 'https: //www.derspresso.com.tr/matematik/koklu-ifade'}, {
+'title': 'Ã-zdeÅYlikler ve Ã┼arpanlara AyÄ±rma', 'link': 'https: //www.derspresso
+.com.tr/matematik/ozdeslik-carpanlara-ayirma'
+                    },
+                    {'title': 'Mutlak DeÄYer', 'link
+': 'https: //www.derspresso.com.tr/matematik/mutlak-deger'}]}, {'baseTitle': 'YÃ¼
+ksek Dereceli Ä°fadeler', 'urls': [
+                            {'title': '2. Dereceden Denklemler', 'link':
+'https: //www.derspresso.com.tr/matematik/ikinci-derece-denklem'}, {'title': 'Kar
+maÅYÄ±k SayÄ±lar', 'link': 'https: //www.derspresso.com.tr/matematik/karmasik-say
+i'
+                            },
+                            {'title': 'Polinomlar', 'link': 'https: //www.derspresso.com.tr/matematik/po
+linom'
+                            }
+                        ]
+                    },
+                    {'baseTitle': 'AyrÄ±k Matematik', 'urls': [
+                            {'title': 'MantÄ±k', 'link
+': 'https: //www.derspresso.com.tr/matematik/mantik'}, {'title': 'KÃ¼meler', 'lin
+k': 'https: //www.derspresso.com.tr/matematik/kume'}, {'title': 'Sayma I', 'link'
+                                : 'https: //www.derspresso.com.tr/matematik/sayma'}, {'title': 'PermÃ¼tasyon', 'l
+ink': 'https: //www.derspresso.com.tr/matematik/permutasyon'}, {'title': 'Kombina
+syon', 'link': 'https: //www.derspresso.com.tr/matematik/kombinasyon'}, {'title':
+ 'Sayma II', 'link': 'https: //www.derspresso.com.tr/matematik/sayma2'}, {'title'
+                                : 'OlasÄ±lÄ±k', 'link': 'https: //www.derspresso.com.tr/matematik/olasilik'}, {'t
+itle': 'Binom AÃ§Ä±lÄ±mÄ±', 'link': 'https: //www.derspresso.com.tr/matematik/bin
+om'
+                            }
+                        ]
+                    },
+                    {'baseTitle': 'Analitik Geometri', 'urls': [
+                            {'title': 'Analitik Geometri
+', 'link': 'https: //www.derspresso.com.tr/matematik/analitik-geometri'}, {'title
+': 'DoÄYrunun AnalitiÄYi', 'link': 'https: //www.derspresso.com.tr/matematik/dogr
+unun-analitigi'
+                            },
+                            {'title': 'Ã┼emberin AnalitiÄYi', 'link': 'https: //www.derspre
+sso.com.tr/matematik/cemberin-analitigi'
+                            },
+                            {'title': 'Parabol', 'link': 'https:/
+/www.derspresso.com.tr/matematik/parabol'
+                            }
+                        ]
+                    },
+                    {'baseTitle': 'Fonksiyonlar I', 'u
+rls': [
+                            {'title': 'BaÄYÄ±ntÄ±', 'link': 'https: //www.derspresso.com.tr/matematik/
+baginti'
+                            },
+                            {'title': 'Fonksiyonlar', 'link': 'https: //www.derspresso.com.tr/mate
+matik/fonksiyon'
+                            },
+                            {'title': 'Fonksiyon Grafikleri', 'link': 'https: //www.derspr
+esso.com.tr/matematik/fonksiyon-grafigi'
+                            },
+                            {'title': 'Fonksiyon Tipleri', 'link'
+: 'https: //www.derspresso.com.tr/matematik/fonksiyon-tipleri'}]}, {'baseTitle':
+'Fonksiyonlar II', 'urls': [
+                                    {'title': 'Trigonometrik Fonksiyonlar', 'link': 'htt
+ps: //www.derspresso.com.tr/matematik/trigonometrik-fonksiyon'}, {'title': 'Ters
+Trigonometrik Fonksiyonlar', 'link': 'https: //www.derspresso.com.tr/matematik/te
+rs-trigonometrik-fonksiyon'
+                                    },
+                                    {'title': 'Ãostel Fonksiyonlar', 'link': 'https: //
+www.derspresso.com.tr/matematik/ustel-fonksiyon'
+                                    },
+                                    {'title': 'Logaritma', 'link'
+: 'https: //www.derspresso.com.tr/matematik/logaritma'}]}, {'baseTitle': 'Analiz'
+                                        , 'urls': [
+                                            {'title': 'Diziler', 'link': 'https: //www.derspresso.com.tr/matematik
+/dizi'
+                                            },
+                                            {'title': 'Limit', 'link': 'https: //www.derspresso.com.tr/matematik/lim
+it'
+                                            },
+                                            {'title': 'SÃ¼reklilik', 'link': 'https: //www.derspresso.com.tr/matematik/
+sureklilik'
+                                            },
+                                            {'title': 'TÃ¼rev', 'link': 'https: //www.derspresso.com.tr/matemat
+ik/turev'
+                                            },
+                                            {'title': 'Ä°ntegral', 'link': 'https: //www.derspresso.com.tr/matema
+tik/integral'
+                                            }
+                                        ]
+                                    },
+                                    {'baseTitle': 'Lineer Cebir', 'urls': [
+                                            {'title': 'VektÃ¶rler',
+ 'link': 'https: //www.derspresso.com.tr/matematik/vektor'}, {'title': 'Matrisler
+', 'link': 'https: //www.derspresso.com.tr/matematik/matris'}]}, {'baseTitle': 'G
+eometri', 'urls': [
+                                                    {'title': 'Temel Kavramlar ve AÃ§Ä±lar', 'link': 'https: //www
+.derspresso.com.tr/matematik/aci'
+                                                    },
+                                                    {'title': 'ÃoÃ§genler', 'link': 'https: //www
+.derspresso.com.tr/matematik/ucgen'
+                                                    },
+                                                    {'title': 'Ã┼okgenler', 'link': 'https: //w
+ww.derspresso.com.tr/matematik/cokgen'
+                                                    },
+                                                    {'title': 'DÃ¶rtgenler', 'link': 'https
+: //www.derspresso.com.tr/matematik/dortgen'}, {'title': 'Ã┼ember ve Daire', 'lin
+k': 'https: //www.derspresso.com.tr/matematik/cember'}, {'title': 'KatÄ± Cisimler
+', 'link': 'https: //www.derspresso.com.tr/matematik/kati-cisim'}]}]
