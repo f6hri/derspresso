@@ -1,5 +1,5 @@
 import { Button } from "@chakra-ui/react"
-import { useNavigate } from "react-router-dom"
+import { useLocation, useNavigate } from "react-router-dom"
 
 interface GhostLinkProps {
     href: string,
@@ -11,7 +11,8 @@ interface GhostLinkProps {
 
 const GhostLink: React.FC<GhostLinkProps> = ({ href, title, color, size, icon }) => {
     const navigate = useNavigate();
-    return <Button size={size} variant="ghost" colorScheme={color} onClick={() => navigate(href)}>{icon} {title}</Button>
+    const path = useLocation().pathname
+    return <Button size={size} variant={path === href? "solid":"ghost"} colorScheme={color} onClick={() => navigate(href)} isDisabled={path === href? true:false}>{icon} {title}</Button>
 }
 
 export default GhostLink;
